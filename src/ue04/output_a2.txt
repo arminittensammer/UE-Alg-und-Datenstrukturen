@@ -1,0 +1,16 @@
+F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe02
+Testing
+---hinzuf. von 3 Elem.
+---Größe der Datenmenge nach hinzufügen---
+3
+---hinzuf. von 2 Elem.
+---Größe der Datenmenge nach hinzufügen---
+5
+--Ausgabe der enthaltenen Elemente
+ue04.SensorData@568db2f2
+ue04.SensorData@378bf509
+ue04.SensorData@5fd0d5ae
+ue04.SensorData@2d98a335
+ue04.SensorData@16b98e56
+
+Process finished with exit code 0

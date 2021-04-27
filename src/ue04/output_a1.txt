@@ -1,0 +1,27 @@
+F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe01
+---Erstellen einer neuen Liste---len = 5
+---Set size = 10---
+---hinzufügen von 7 Sensoren---
+Sensor0231, Value: 87.0, Timestamp: 10.20.456
+Sensor0451, Value: 76.0, Timestamp: 10.20.234
+Sensor0341, Value: 43.0, Timestamp: 10.20.23423
+Sensor0231, Value: 54.0, Timestamp: 10.20.456
+Sensor0451, Value: 23.0, Timestamp: 10.20.234
+Sensor0341, Value: 34.0, Timestamp: 10.20.23423
+Sensor0231, Value: 10.0, Timestamp: 10.20.134
+---Set Size = 4---
+Sensor0231, Value: 87.0, Timestamp: 10.20.456
+Sensor0451, Value: 76.0, Timestamp: 10.20.234
+Sensor0341, Value: 43.0, Timestamp: 10.20.23423
+Sensor0231, Value: 54.0, Timestamp: 10.20.456
+---reset---
+Liste leer
+---erneutes hinzufügen---
+Sensor0231, Value: 54.0, Timestamp: 10.20.456
+Sensor0451, Value: 23.0, Timestamp: 10.20.234
+Sensor0341, Value: 34.0, Timestamp: 10.20.23423
+Sensor0231, Value: 10.0, Timestamp: 10.20.134
+---get Data
+ue04.SensorData@378bf509
+
+Process finished with exit code 0
