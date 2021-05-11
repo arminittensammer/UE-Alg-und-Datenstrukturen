@@ -1,4 +1,4 @@
-"C:\Program Files\AdoptOpenJDK\jdk-15.0.0.36-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\lib\idea_rt.jar=61929:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\bin" -Dfile.encoding=UTF-8 -classpath F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe01
+F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe01
 ---Erstellen einer neuen Liste---len = 5
 ---Set size = 10---
 ---hinzufügen von 7 Sensoren---

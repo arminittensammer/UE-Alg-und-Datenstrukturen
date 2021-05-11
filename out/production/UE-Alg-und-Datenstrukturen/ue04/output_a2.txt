@@ -1,4 +1,4 @@
-"C:\Program Files\AdoptOpenJDK\jdk-15.0.0.36-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\lib\idea_rt.jar=62174:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\bin" -Dfile.encoding=UTF-8 -classpath F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe02
+F:\Studium\UE-Alg-und-Datenstrukturen\out\production\UE-Alg-und-Datenstrukturen ue04.aufgabe02
 Testing
 ---hinzuf. von 3 Elem.
 ---Größe der Datenmenge nach hinzufügen---
